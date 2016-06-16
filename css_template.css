@@ -1,0 +1,18 @@
+body {
+	background: white;
+	padding: 50px 125px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.criteria {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
